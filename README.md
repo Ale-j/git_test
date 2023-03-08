@@ -1,2 +1,3 @@
 # git_test
-firt try with odin 
+first try with odin
+Hello Odin! 
